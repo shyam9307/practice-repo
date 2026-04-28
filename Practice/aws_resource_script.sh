@@ -15,3 +15,5 @@
 echo "Enter the word:"
 read x
 grep -o "a" <<<"$x" | wc -l
+
+#This is New line for new commit.....!
