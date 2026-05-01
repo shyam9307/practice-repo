@@ -16,4 +16,4 @@ echo "Enter the word:"
 read x
 grep -o "a" <<<"$x" | wc -l
 
-#This is New line for new commit.....!
+#This is a Practice line for GitHub..!
